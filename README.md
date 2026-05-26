@@ -13,9 +13,9 @@
 
 ## 🌸 Sobre mim
 
-✨ Estudante de ADS apaixonada por tecnologia, desenvolvimento web e interfaces modernas.  
-🎨 Tenho interesse em Front-end, UI/UX Design e experiências visuais criativas.  
-🚀 Sempre buscando evoluir minhas habilidades e aprender novas tecnologias.  
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, design e desenvolvimento front-end. Gosto de criar interfaces modernas, responsivas e visualmente criativas, sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
+
+Atualmente, venho desenvolvendo projetos acadêmicos e pessoais para fortalecer meus conhecimentos em programação, UI/UX e desenvolvimento web, unindo criatividade e tecnologia em cada projeto. 
 
 ---
 
@@ -29,31 +29,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michelydev&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelydev&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🌐 Contato
 
 <div align="center">
 
-<a href="LINKEDIN">
+<a href="www.linkedin.com/in/michely-archetti">
 <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:EMAIL">
+<a href="mailto:michelliarchetti@gmail.com">
 <img src="https://img.shields.io/badge/Email-dc143c?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="INSTAGRAM">
+<a href="[INSTAGRAM](https://www.instagram.com/chely_chetti?igsh=MXRvaXk1c3FsZjlwdw%3D%3D&utm_source=qr)">
 <img src="https://img.shields.io/badge/Instagram-c71585?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
