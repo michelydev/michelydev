@@ -4,7 +4,7 @@
 
 ### 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 ### Tecnologia • Desenvolvimento Web • Interfaces Criativas
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Apaixonada+por+tecnologia+e+design.;Criando+interfaces+modernas+e+criativas." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Em+constante+aprendizado+na+tecnologia.;Criando+interfaces+modernas+e+criativas." />
 
 </div>
 
