@@ -41,7 +41,7 @@ Atualmente, venho desenvolvendo projetos acadêmicos e pessoais para fortalecer 
 <img src="https://img.shields.io/badge/Email-dc143c?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[INSTAGRAM](https://www.instagram.com/chely_chetti?igsh=MXRvaXk1c3FsZjlwdw%3D%3D&utm_source=qr)">
+<a href="(https://www.instagram.com/chely_chetti?igsh=MXRvaXk1c3FsZjlwdw%3D%3D&utm_source=qr)">
 <img src="https://img.shields.io/badge/Instagram-c71585?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
