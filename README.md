@@ -3,8 +3,7 @@
 # ✨ Michely Archetti ✨
 
 ### 💻 Estudante de Análise e Desenvolvimento de Sistemas  
-### 🎨 Front-end • UI/UX • Tecnologia • Design  
-
+### Tecnologia • Desenvolvimento Web • Interfaces Criativas
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Apaixonada+por+tecnologia+e+design.;Criando+interfaces+modernas+e+criativas." />
 
 </div>
