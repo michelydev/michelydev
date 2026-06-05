@@ -1,20 +1,32 @@
 <div align="center">
+  
 # ✨ Michely Archetti ✨
 ### 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 ### Tecnologia • Desenvolvimento Web • Interfaces Criativas
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Em+constante+aprendizado+na+tecnologia.;Criando+interfaces+modernas+e+criativas." />
+
 </div>
+
 ---
+
 ## 🌸 Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, design e desenvolvimento front-end. Gosto de criar interfaces modernas, responsivas e visualmente criativas, sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
 Atualmente, venho desenvolvendo projetos acadêmicos e pessoais para fortalecer meus conhecimentos em programação, UI/UX e desenvolvimento web, unindo criatividade e tecnologia em cada projeto. 
+
 ---
+
 ## 💻 Tecnologias
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cs,figma,vscode,git,github" />
+
+img src="https://skillicons.dev/icons?i=html,css,js,c,cs,figma,vscode,git,github" />
+
 </div>
+
 ---
+
 ## 🌐 Contato
+
 <div align="center">
 <a href="https://www.linkedin.com/in/michely-archetti">
 <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
