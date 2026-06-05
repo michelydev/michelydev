@@ -30,8 +30,7 @@ img src="https://skillicons.dev/icons?i=html,css,js,c,cs,figma,vscode,git,github
 <div align="center">
 
   <a href="https://www.linkedin.com/in/michely-archetti">
-
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
