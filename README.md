@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ffc0cb&height=250&section=header&text=Michely%20Archetti&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+
 <div align="center">
 
-# ✨ Michely Archetti ✨
+#  Michely Archetti 
 
 ### 💻 Estudante de Análise e Desenvolvimento de Sistemas
 ### Tecnologia • Desenvolvimento Web • Interfaces Criativas
