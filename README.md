@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ffc0cb&height=250&section=header&text=Michely%20Archetti&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=200&section=header&text=Michely%20Archetti&fontColor=ffffff&fontSize=45" />
 
 <div align="center">
 
