@@ -19,7 +19,7 @@ Atualmente, venho desenvolvendo projetos acadêmicos e pessoais para fortalecer 
 
 <div align="center">
 
-img src="https://skillicons.dev/icons?i=html,css,js,c,cs,figma,vscode,git,github" />
+  img src="https://skillicons.dev/icons?i=html,css,js,c,cs,figma,vscode,git,github" />
 
 </div>
 
