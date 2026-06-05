@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=ffc0cb,ff69b4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF69B4&section=header"/>
 
 # ✨ Michely Archetti ✨
 
