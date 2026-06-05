@@ -36,7 +36,9 @@ Atualmente, venho desenvolvendo projetos acadêmicos e pessoais para fortalecer 
 
 <a href="mailto:michelliarchetti@gmail.com">
 
-  <img src="https://img.shields.io/badge/Email-dc143c?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Em+constante+aprendizado+na+tecnologia.;Criando+interfaces+modernas+e+criativas."
+/>
 
 </a>
 
