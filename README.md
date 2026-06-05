@@ -1,6 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Michely%20Archetti&fontSize=40&fontAlignY=30&fontColor=ffffff&color=FF69B4" />
+
 ### Tecnologia • Desenvolvimento Web • Interfaces Criativas
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Em+constante+aprendizado.;Criando+interfaces+modernas+e+criativas." />
