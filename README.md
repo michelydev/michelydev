@@ -13,11 +13,11 @@
 
 ## 🌸 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, design e desenvolvimento front-end.
+Cada projeto começa com uma ideia e termina como uma oportunidade de aprender algo novo.
 
-Gosto de criar interfaces modernas, responsivas e visualmente criativas, sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
+Gosto de transformar conceitos em interfaces funcionais, explorando design, desenvolvimento web e experiências que unem criatividade e tecnologia. Este espaço reúne projetos, estudos e experimentos que representam minha evolução constante e a busca por criar soluções cada vez melhores.
 
-Atualmente, desenvolvo projetos acadêmicos e pessoais para fortalecer meus conhecimentos em programação, UI/UX e desenvolvimento web, unindo criatividade e tecnologia em cada projeto.
+Sempre aprendendo, sempre construindo.
 
 ---
 
