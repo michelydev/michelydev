@@ -28,17 +28,31 @@ img src="https://skillicons.dev/icons?i=html,css,js,c,cs,figma,vscode,git,github
 ## 🌐 Contato
 
 <div align="center">
-<a href="https://www.linkedin.com/in/michely-archetti">
-<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/michely-archetti">
+
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
+
 <a href="mailto:michelliarchetti@gmail.com">
-<img src="https://img.shields.io/badge/Email-dc143c?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Email-dc143c?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
+
 <a href="https://www.instagram.com/chely_chetti">
-<img src="https://img.shields.io/badge/Instagram-c71585?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Instagram-c71585?style=for-the-badge&logo=instagram&logoColor=white"/>
+
 </a>
+
 </div>
+
 ---
+
 <div align="center">
-### 💖 “Transformando ideias em interfaces criativas.”
+
+  ### 💖 “Transformando ideias em interfaces criativas.”
+
 </div>
