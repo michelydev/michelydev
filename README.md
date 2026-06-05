@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF69B4&text=Michely%20Archetti&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=FF69B4&text=Michely%20Archetti&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 ### Tecnologia • Desenvolvimento Web • Interfaces Criativas
 
